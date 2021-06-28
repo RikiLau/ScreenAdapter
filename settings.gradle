@@ -1,2 +1,3 @@
 rootProject.name = "ScreenAdapter"
 include ':app'
+include ':screenUtils'
