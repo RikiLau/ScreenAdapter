@@ -15,7 +15,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.ddxz.1874'
                 artifactId = 'screenAdapter'
-                version = '2.2'
+                version = '2.3'
             }
             // Creates a Maven publication called “debug”.
             debug(MavenPublication) {
@@ -24,7 +24,7 @@ afterEvaluate {
 
                 groupId = 'com.ddxz.1874'
                 artifactId = 'screenAdapter-debug'
-                version = '2.2'
+                version = '2.3'
             }
         }
     }

@@ -7,11 +7,33 @@
     	
     <dimen name="dp_m_20">-22.8333dp</dimen>
     	
+    <dimen name="dp_m_19">-21.6917dp</dimen>
+    	
+    <dimen name="dp_m_18">-20.5500dp</dimen>
+    	
+    <dimen name="dp_m_17">-19.4083dp</dimen>
+    	
+    <dimen name="dp_m_16">-18.2667dp</dimen>
+    	
+    <dimen name="dp_m_15">-17.1250dp</dimen>
+    	
+    <dimen name="dp_m_14">-15.9833dp</dimen>
+    	
+    <dimen name="dp_m_13">-14.8417dp</dimen>
+    	
     <dimen name="dp_m_12">-13.7000dp</dimen>
+    	
+    <dimen name="dp_m_11">-12.5583dp</dimen>
     	
     <dimen name="dp_m_10">-11.4167dp</dimen>
     	
+    <dimen name="dp_m_9">-10.2750dp</dimen>
+    	
     <dimen name="dp_m_8">-9.1333dp</dimen>
+    	
+    <dimen name="dp_m_7">-7.9917dp</dimen>
+    	
+    <dimen name="dp_m_6">-6.8500dp</dimen>
     	
     <dimen name="dp_m_5">-5.7083dp</dimen>
     	
@@ -1875,21 +1897,53 @@
     	
     <dimen name="sp_25">28.5417sp</dimen>
     	
+    <dimen name="sp_26">29.6833sp</dimen>
+    	
+    <dimen name="sp_27">30.8250sp</dimen>
+    	
     <dimen name="sp_28">31.9667sp</dimen>
+    	
+    <dimen name="sp_29">33.1083sp</dimen>
     	
     <dimen name="sp_30">34.2500sp</dimen>
     	
+    <dimen name="sp_31">35.3917sp</dimen>
+    	
     <dimen name="sp_32">36.5333sp</dimen>
+    	
+    <dimen name="sp_33">37.6750sp</dimen>
     	
     <dimen name="sp_34">38.8167sp</dimen>
     	
+    <dimen name="sp_35">39.9583sp</dimen>
+    	
     <dimen name="sp_36">41.1000sp</dimen>
+    	
+    <dimen name="sp_37">42.2417sp</dimen>
     	
     <dimen name="sp_38">43.3833sp</dimen>
     	
+    <dimen name="sp_39">44.5250sp</dimen>
+    	
     <dimen name="sp_40">45.6667sp</dimen>
+    	
+    <dimen name="sp_41">46.8083sp</dimen>
     	
     <dimen name="sp_42">47.9500sp</dimen>
     	
+    <dimen name="sp_43">49.0917sp</dimen>
+    	
+    <dimen name="sp_44">50.2333sp</dimen>
+    	
+    <dimen name="sp_45">51.3750sp</dimen>
+    	
+    <dimen name="sp_46">52.5167sp</dimen>
+    	
+    <dimen name="sp_47">53.6583sp</dimen>
+    	
     <dimen name="sp_48">54.8000sp</dimen>
+    	
+    <dimen name="sp_49">55.9417sp</dimen>
+    	
+    <dimen name="sp_50">57.0833sp</dimen>
 </resources>
